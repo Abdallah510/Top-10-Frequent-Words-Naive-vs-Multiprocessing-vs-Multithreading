@@ -1,4 +1,4 @@
-# Top 10 Frequent Words — Naive vs Multiprocessing vs Multithreading in C
+# Top 10 Frequent Words — Naive vs Multiprocessing vs Multithreading
 
 A C project. It finds the top 10 most frequent words in a large text dataset (enwik8) and compares the performance of three approaches: single-process, multiprocessing, and multithreading.
 
